@@ -1,4 +1,4 @@
 # CCDdatasets
-This repository contains mechanical datasets used in the paper "The image-based method for measuring circumferential blade wear of end mill". All the data are the original Image data acquired by Charge Coupled Device.
+This repository contains mechanical datasets used in the paper "The image-based method for measurement of circumferential blade wear of end mill ". All the data are the original Image data acquired by Charge Coupled Device.
 For the names of the data files, for example 'D16_12_60.mat',The first letter represents the diameter，next two numbers represent tool diameters (10 12 16millimetre)，The number of the second position represent the number of measurements per week for tool rotation and the last number represents the number of tool sections to be collected for each acquisition angle.
 CCDdataset is from Nanjing University of Aeronautics and Astronautics，China. These data are collected from QLM27100-5X five-axis CNC processing center. This dataset contains 2  subdatasets, including different angles, which are both acquired on Charge Coupled Device (CCD). 
